@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Shop" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/peacock</item>
+        <item name="colorPrimaryDark">@color/peacock</item>
+        <item name="colorAccent">@color/marigold</item>
+        <item name="android:statusBarColor">@color/peacock</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
